@@ -1,10 +1,10 @@
 <article class="post">
     <header>
-        <a href="{{ post.url }}"><h1>{{ post.title }}</h1></a>
+        <a href="{{ site.baseurl }}{{ post.url }}"><h1>{{ post.title }}</h1></a>
         <date datetime="{{ post.date }}">{{ post.date | date: "%b %-d, %Y" }}</date>
     </header>
     {{ post.excerpt }}
     <p class="ellipsis">
-        <a href="{{ post.url }}">Read more</a>
+        <a href="{{ site.baseurl }}">Read more</a>
     </p>
 </article>
