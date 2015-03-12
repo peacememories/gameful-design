@@ -3,6 +3,7 @@ layout: post
 title:  "First Assignment"
 date:   2015-03-07 11:09:00
 categories: assignment
+commets: true
 ---
 The first assignment in Gameful Design is to prototype a card game.
 
