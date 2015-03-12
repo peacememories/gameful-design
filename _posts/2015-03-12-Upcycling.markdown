@@ -4,8 +4,6 @@ title:  "The First Project"
 categories: assignment
 ---
 
-# Our Ideas
-
 A quick rundown of which games already use mechanics that emphasize thinking about values gave me the following list:
 
 * Canasta/Rummy/Jolly
