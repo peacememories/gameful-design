@@ -2,6 +2,7 @@
 layout: post
 title: Reactivision Project Start
 category: assignments
+comments: true
 ---
 
 We were tasked with developing interactive software for a Reactivision table.

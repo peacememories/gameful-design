@@ -2,6 +2,7 @@
 layout: post
 title: Reactivision Libraries
 category: assignments
+comments: true
 ---
 
 Since we wanted do write an application in haskell, we kind of have to write all the Reactivision libraries ourselves. So here goes:
